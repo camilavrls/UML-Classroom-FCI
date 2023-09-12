@@ -58,6 +58,8 @@ Contexto: solicitação e entrega do pedido
 •	Sistema encerra o pedido
 
 Diagrama:
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/8c2a5f27-ab65-418e-8ad1-4ce602e8312f)
+
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
 # Descrição dos casos de uso
