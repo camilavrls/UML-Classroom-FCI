@@ -38,27 +38,28 @@
 *&lt;Introdução do projeto&gt;*
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Requisitos funcionais: O sistema precisa processar o recebimento do pedido, buscar pizzarias de acordo com a localização do cliente, direcionar o pedido para a pizzaria, monitorar o status do pedido, cronometrar o pedido e o encerrar quando for necessário.
+Requisitos funcionais: O sistema precisa processar o recebimento do pedido, buscar pizzarias de acordo com a localização do cliente, direcionar o pedido para a pizzaria, monitorar o status do pedido, cronometrar o pedido e o encerrar quando for necessário. <br>
+<br>
 Requisitos não funcionais: A resposta a confirmação do pedido do cliente deve ser imediata, o sistema deve estar de acordo com as normas de acessibilidade, o sistema deve suportar lidar com uma grande quantidade de pedidos ao mesmo tempo. 
-s&gt;*
 
 # Diagrama de casos de uso
-Caso de uso 1: solicitação e entrega do pedido
-Contexto: solicitação e entrega do pedido
-•	Cliente confirma o pedido
-•	Sistema recebe o pedido
-•	Sistema busca as pizzarias mais próximas com base na localização do cliente
-•	Sistema direciona o pedido para a pizzaria mais próxima encontrada
-•	Pizzaria aceita o pedido
-•	Pizzaria começa a preparar o pedido
-•	Pizzaria registra no sistema que o pedido está em preparação
-•	Pizzaria termina o pedido e registra no sistema que saiu para entrega
-•	Entregador entrega o pedido e registra entrega no sistema
-•	Sistema contabiliza o tempo do processo
-•	Sistema encerra o pedido
-
+Caso de uso 1: solicitação e entrega do pedido <br>
+Contexto: solicitação e entrega do pedido <br>
+•	Cliente confirma o pedido <br>
+•	Sistema recebe o pedido <br>
+•	Sistema busca as pizzarias mais próximas com base na localização do cliente <br>
+•	Sistema direciona o pedido para a pizzaria mais próxima encontrada <br>
+•	Pizzaria aceita o pedido <br>
+•	Pizzaria começa a preparar o pedido <br>
+•	Pizzaria registra no sistema que o pedido está em preparação <br>
+•	Pizzaria termina o pedido e registra no sistema que saiu para entrega <br>
+•	Entregador entrega o pedido e registra entrega no sistema <br>
+•	Sistema contabiliza o tempo do processo <br>
+•	Sistema encerra o pedido <br>
+<br>
 Diagrama:
 ![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/8c2a5f27-ab65-418e-8ad1-4ce602e8312f)
+<br>
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
