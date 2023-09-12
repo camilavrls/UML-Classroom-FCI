@@ -27,14 +27,10 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Alex Albert - 31895972
+* Antonio Cesar - 32348800
+* Camila Vitória - 32094094
+* Guilherme Almeida - 32327765
 
 
 # Descrição do projeto
@@ -42,10 +38,26 @@
 *&lt;Introdução do projeto&gt;*
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt;Requisitos funcionais: O sistema precisa processar o recebimento do pedido, buscar pizzarias de acordo com a localização do cliente, direcionar o pedido para a pizzaria, monitorar o status do pedido, cronometrar o pedido e o encerrar quando for necessário.
+Requisitos não funcionais: A resposta a confirmação do pedido do cliente deve ser imediata, o sistema deve estar de acordo com as normas de acessibilidade, o sistema deve suportar lidar com uma grande quantidade de pedidos ao mesmo tempo. 
+s&gt;*
 
 # Diagrama de casos de uso
+Caso de uso 1: solicitação e entrega do pedido
+Contexto: solicitação e entrega do pedido
+•	Cliente confirma o pedido
+•	Sistema recebe o pedido
+•	Sistema busca as pizzarias mais próximas com base na localização do cliente
+•	Sistema direciona o pedido para a pizzaria mais próxima encontrada
+•	Pizzaria aceita o pedido
+•	Pizzaria começa a preparar o pedido
+•	Pizzaria registra no sistema que o pedido está em preparação
+•	Pizzaria termina o pedido e registra no sistema que saiu para entrega
+•	Entregador entrega o pedido e registra entrega no sistema
+•	Sistema contabiliza o tempo do processo
+•	Sistema encerra o pedido
 
+Diagrama:
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
 # Descrição dos casos de uso
