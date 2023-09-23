@@ -31,7 +31,18 @@ Pizza-Expres
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. <br>
+Pizza-Express tem perdido recentemente 30% do rendimento de vendas devido a um problema em seu negócio da entrega. Atribuem este problema a seu concorrente principal que promoveu um programa que garante o serviço de entrega em 30 minutos, desde a entrada da ordem de serviço até a entrega na casa do cliente (delivery).<br>
+Pizza-Express anuncia a entrega em uma hora.<br>
+Pizza-Express usa atualmente computadores para armazenar as operações e as funções usuais do negócio, mas não auxiliam nas funções para processar a entrega dos pedidos dos seus clientes.<br>
+Elonn Muske, o gerente de sistemas de informação é o encarregado para desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las.<br>
+O patrocinador deste projeto, a empresa Papa-Léguas Delivery, disse que o futuro da Pizza-Express depende deste projeto.<br>
+A equipe deverá investigar uma opção para entregar a pizza em menos de 30 minutos.<br>
+A sua idéia é montar lojas de pizza Pizza-Express que não teriam nenhum espaço de varejo, pois a sua função é somente receber ordens, preparar e entregar as pizzas.<br>
+A loja deverá ser localizada o mais próximo do cliente receberá a ordem através de uma central, processará, e entregará a ordem dentro de 10 ou 15 minutos da entrada do pedido.<br>
+Há dois projetos do desenvolvimento do software identificados aqui:<br>
+primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega; e
+segundo é um sistema de software para suportar operações da fábrica de pizzas.<br>
 
 # Análise de requisitos funcionais e não-funcionais
 Requisitos funcionais: O sistema precisa processar o recebimento do pedido, buscar pizzarias de acordo com a localização do cliente, direcionar o pedido para a pizzaria, monitorar o status do pedido, cronometrar o pedido e o encerrar quando for necessário. <br>
@@ -40,7 +51,6 @@ Requisitos não funcionais: A resposta a confirmação do pedido do cliente deve
 
 # Diagrama de casos de uso
 
-Diagrama:
 ![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/8c2a5f27-ab65-418e-8ad1-4ce602e8312f)
 ![WhatsApp Image 2023-09-19 at 20 01 41](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/519d4213-7d8c-4957-b603-431ebf5cd158)
 ![WhatsApp Image 2023-09-19 at 20 17 23](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/d5052d41-b9a4-4130-884b-668983a61d59)
