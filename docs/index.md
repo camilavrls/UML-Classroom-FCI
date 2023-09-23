@@ -39,6 +39,17 @@ Requisitos funcionais: O sistema precisa processar o recebimento do pedido, busc
 Requisitos não funcionais: A resposta a confirmação do pedido do cliente deve ser imediata, o sistema deve estar de acordo com as normas de acessibilidade, o sistema deve suportar lidar com uma grande quantidade de pedidos ao mesmo tempo. 
 
 # Diagrama de casos de uso
+
+Diagrama:
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/8c2a5f27-ab65-418e-8ad1-4ce602e8312f)
+![WhatsApp Image 2023-09-19 at 20 01 41](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/519d4213-7d8c-4957-b603-431ebf5cd158)
+![WhatsApp Image 2023-09-19 at 20 17 23](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/d5052d41-b9a4-4130-884b-668983a61d59)
+![WhatsApp Image 2023-09-19 at 20 27 37](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/1bde9d12-988a-42f8-88f7-8a47c5c7e215)
+
+<br>
+
+
+# Descrição dos casos de uso
 Caso de uso 1: solicitação e entrega do pedido <br>
 Contexto: solicitação e entrega do pedido <br>
 •	Cliente confirma o pedido <br>
@@ -53,15 +64,6 @@ Contexto: solicitação e entrega do pedido <br>
 •	Sistema contabiliza o tempo do processo <br>
 •	Sistema encerra o pedido <br>
 <br>
-Diagrama:
-![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/8c2a5f27-ab65-418e-8ad1-4ce602e8312f)
-<br>
-
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
-
-# Descrição dos casos de uso
-
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
 # Diagrama de sequencia
 
