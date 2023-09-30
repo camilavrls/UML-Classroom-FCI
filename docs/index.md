@@ -54,25 +54,24 @@ Requisitos não funcionais: A resposta a confirmação do pedido do cliente deve
 ![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/8c2a5f27-ab65-418e-8ad1-4ce602e8312f)
 ![WhatsApp Image 2023-09-19 at 20 01 41](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/519d4213-7d8c-4957-b603-431ebf5cd158)
 ![WhatsApp Image 2023-09-19 at 20 17 23](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/d5052d41-b9a4-4130-884b-668983a61d59)
-![WhatsApp Image 2023-09-19 at 20 27 37](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/1bde9d12-988a-42f8-88f7-8a47c5c7e215)
 
 <br>
 
 
 # Descrição dos casos de uso
-Caso de uso 1: solicitação e entrega do pedido <br>
-Contexto: solicitação e entrega do pedido <br>
-•	Cliente confirma o pedido <br>
-•	Sistema recebe o pedido <br>
-•	Sistema busca as pizzarias mais próximas com base na localização do cliente <br>
-•	Sistema direciona o pedido para a pizzaria mais próxima encontrada <br>
-•	Pizzaria aceita o pedido <br>
-•	Pizzaria começa a preparar o pedido <br>
-•	Pizzaria registra no sistema que o pedido está em preparação <br>
-•	Pizzaria termina o pedido e registra no sistema que saiu para entrega <br>
-•	Entregador entrega o pedido e registra entrega no sistema <br>
-•	Sistema contabiliza o tempo do processo <br>
-•	Sistema encerra o pedido <br>
+<br>
+Caso de Uso 1 
+
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/a4508355-6a97-43e2-9803-5813c0054820)
+<br>
+Caso de Uso 2
+
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/533cf9f0-af3a-4b4e-bb32-90f1b87a8f05)
+<br>
+Caso de Uso 3
+
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/63364f26-de06-4e78-8f91-758c6fb5429f)
+
 <br>
 
 # Diagrama de sequencia
