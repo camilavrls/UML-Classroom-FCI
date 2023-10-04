@@ -76,7 +76,8 @@ Caso de Uso 3
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/56aa4871-c20d-4044-a23f-0db119dea899)
+
 
 # Diagrama de classes
 
