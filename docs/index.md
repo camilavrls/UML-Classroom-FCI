@@ -76,8 +76,8 @@ Caso de Uso 3
 
 # Diagrama de sequencia
 
-![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/56aa4871-c20d-4044-a23f-0db119dea899)
-
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/71bdb142-6c1c-4741-a05f-151a9910de0b)
+<br>
 
 # Diagrama de classes
 
