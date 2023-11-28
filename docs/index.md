@@ -95,7 +95,8 @@ Caso de Uso 3
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/0ae27634-6ced-4196-9f91-ee038867ebff)
+
 
 # Referências
 
