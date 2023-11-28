@@ -81,7 +81,8 @@ Caso de Uso 3
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/d1cc87c2-8075-4c38-aada-9e54fd9d5ed5)
+
 
 # Diagrama de Componentes
 
