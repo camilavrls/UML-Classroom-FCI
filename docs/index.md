@@ -86,7 +86,8 @@ Caso de Uso 3
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![image](https://github.com/camilavrls/UML-Classroom-FCI/assets/86975387/96d40ce2-f021-41fd-afa6-9e6edcf9c8f7)
+
 
 # Decisões de arquitetura
 
