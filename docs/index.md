@@ -91,7 +91,34 @@ Caso de Uso 3
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+Servidores:
+Um servidor para hospedar a aplicação do cliente e gerenciar a lógica de negócios.
+Servidores para hospedar o processamento de pedidos, incluindo o localizador de pizzarias, o sistema de processamento de pagamentos e o sistema da pizzaria.
+
+Banco de Dados:
+Um banco de dados para armazenar informações do cliente, pedidos, pizzarias, e outros dados relevantes.
+
+Rede:
+Conexão com uma rede para permitir a comunicação entre o aplicativo do cliente, o sistema de processamento de pedidos, os servidores da pizzaria, e outros componentes.
+
+Dispositivos de Venda:
+Celulares (smartphones) para confirmar pedidos, ligados com impressoras para gerar comprovantes de pedidos.
+
+Dispositivos de Rastreamento de Entregas:
+Dispositivos ligados ao gps e ao dispositivo do entregador, para rastrear a localização dos pedidos.
+
+Dispositivos de Pagamento:
+Para processar pagamentos online, será necessário um hardware adicional para suportar transações seguras.
+
+Sistema de Backup e Recuperação:
+Infraestrutura para backup e recuperação de dados, garantindo a segurança e disponibilidade das informações.
+
+Firewalls e Segurança:
+Mecanismos de segurança, como firewalls, para proteger contra ameaças de segurança.
+
+Câmeras de Monitoramento:
+Em locais físicos, como a pizzaria, câmeras de monitoramento podem ser instaladas para segurança e registro de eventos.
+
 
 # Diagrama de implantação
 
